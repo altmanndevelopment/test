@@ -1,0 +1,8 @@
+#boxes{
+    width:200px;
+    height:100px;
+    border:1px solid black;
+    float:left;
+    margin-left:20px;
+    margin-top:20px;
+}
